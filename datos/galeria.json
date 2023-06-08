@@ -1,0 +1,119 @@
+[
+    {
+      "id":1,
+      "nombre":"Multimedia 1",
+      "src":"https://cdn.discordapp.com/attachments/454085077568192515/1114722536492642405/refri_1.JPG",
+      "descripcion":"descripción",
+      "autor": "@sancano",
+      "tipo": "Foto",
+      "likes":10,
+      "comentarios":
+         [
+          {
+            "id":1,
+            "comentario": "genial foto!!",
+            "autor": "@pepito"
+          },
+          {
+            "id":1,
+            "comentario": "me encanto!!",
+            "autor": "@pepita"
+          }
+    
+         ]
+      },
+      {
+        "id":2,
+        "nombre":"Multimedia 2",
+        "src":"https://www.youtube.com/watch?v=W6NZfCO5SIk",
+        "descripcion":"descripción",
+        "autor": "@sancano",
+        "tipo": "Video",
+        "likes":10,
+        "comentarios":
+           [
+            {
+              "id":1,
+              "comentario": "genial foto!!",
+              "autor": "@pepito"
+            },
+            {
+              "id":1,
+              "comentario": "me encanto!!",
+              "autor": "@pepita"
+            }
+      
+           ]
+        },
+      {
+        "id":3,
+        "nombre":"Multimedia 3",
+        "src":"https://cdn.discordapp.com/attachments/454085077568192515/1114722536752676907/refri_2.JPG",
+        "descripcion":"descripción",
+        "autor": "@sancano",
+        "tipo": "Foto",
+        "likes":10,
+        "comentarios":
+           [
+            {
+              "id":2,
+              "comentario": "genial foto!!",
+              "autor": "@pepito"
+            },
+            {
+              "id":1,
+              "comentario": "me encanto!!",
+              "autor": "@pepita"
+            }
+      
+           ]
+        },
+        {
+          "id":4,
+          "nombre":"Multimedia 4",
+          "src":"https://www.youtube.com/watch?v=TlB_eWDSMt4",
+          "descripcion":"descripción",
+          "autor": "@sancano",
+          "tipo": "Video",
+          "likes":10,
+          "comentarios":
+             [
+              {
+                "id":2,
+                "comentario": "genial foto!!",
+                "autor": "@pepito"
+              },
+              {
+                "id":1,
+                "comentario": "me encanto!!",
+                "autor": "@pepita"
+              }
+        
+             ]
+          },
+          {
+            "id":5,
+            "nombre":"Multimedia 5",
+            "src":"https://cdn.discordapp.com/attachments/454085077568192515/1114722536991760434/refri_3.JPG",
+            "descripcion":"descripción",
+            "autor": "@sancano",
+            "tipo": "Foto",
+            "likes":10,
+            "comentarios":
+               [
+                {
+                  "id":2,
+                  "comentario": "genial foto!!",
+                  "autor": "@pepito"
+                },
+                {
+                  "id":1,
+                  "comentario": "me encanto!!",
+                  "autor": "@pepita"
+                }
+          
+               ]
+            }
+        
+    
+    ]

@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "src":"../datos/carusel/1.png",
+        "titulo":"Hermosa pintura"
+    },
+    {
+        "id":2,
+        "src":"../datos/carusel/2.png",
+        "titulo":"Hermosa pintura"
+    },
+    {
+        "id":3,
+        "src":"../datos/carusel/3.png",
+        "titulo":"Hermosa pintura"
+    }
+]
